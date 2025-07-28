@@ -10,10 +10,6 @@
 - 🗄️ Database: PostgreSQL, SQLite
 - ☁️ Cloud: GitHub Pages, Vercel, Render
 
-### 📈 GitHub Stats
-
-![Sangam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangamshrestha&show_icons=true&theme=radical)
-
 ### 🧰 Tools I Use
 
 <img src="https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode" />
