@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Sangam Shrestha
 
-<!--
-**sangamsacc/sangamsacc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a developer passionate about open-source tools, automation, and productivity hacks.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Languages: Ruby, JavaScript, Bash
+- 🌐 Frontend: HTML, CSS, Tailwind
+- 🧠 Backend: Ruby on Rails, Node.js
+- 🗄️ Database: PostgreSQL, SQLite
+- ☁️ Cloud: GitHub Pages, Vercel, Render
+
+### 📈 GitHub Stats
+
+![Sangam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangamshrestha&show_icons=true&theme=radical)
+
+### 🧰 Tools I Use
+
+<img src="https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode" />
+<img src="https://img.shields.io/badge/Terminal-Bash-lightgrey?logo=gnubash" />
+<img src="https://img.shields.io/badge/Git-Git-orange?logo=git" />
+
+### 📫 Connect With Me
+
+- 📷 [Instagram](https://instagram.com/yourhandle)
+- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🌍 [My Website](https://yourwebsite.com)
+
+---
+
+> ⚡ Fun fact: I automate boring tasks with bash scripts 🚀
